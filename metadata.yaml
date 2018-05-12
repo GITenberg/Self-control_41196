@@ -1,0 +1,30 @@
+_repo: Self-control_41196
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41196-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brunton, Mary
+    alias: Brunton, Mary Balfour
+    birthdate: 1778
+    deathdate: 1818
+    gutenberg_agent_id: '39506'
+    url: http://www.gutenberg.org/2009/agents/39506
+description: An authentic reproduction of the 1811 text as printed by the original
+  publisher.
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-control -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+title: 'Self-control: A Novel'
+url: http://www.gutenberg.org/ebooks/41196
