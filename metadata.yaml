@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39506
 description: An authentic reproduction of the 1811 text as printed by the original
   publisher.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41196#Self-control
 gutenberg_issued: '2012-10-27'
 gutenberg_type: Text
 identifiers:
